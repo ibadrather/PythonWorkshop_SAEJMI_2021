@@ -1,6 +1,11 @@
 MIT License
 
-Copyright (c) 2021 Ibad Rather
+Copyright (c) 2021 IBM, Edits made by Ibad Rather
+
+The Notebooks have been taken from a Course on Coursera:
+Python for AI and Data Science by IBM: 
+
+https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
